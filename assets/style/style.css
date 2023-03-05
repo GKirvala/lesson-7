@@ -6,7 +6,7 @@
 .bg{
     position: relative;
     background: #000 url('../images/bgforcar.jpg');
-    height:100vh;
+    height:130vh;
     background-repeat: repeat-x;
     background-size: cover;
     background-position: 0 0;
