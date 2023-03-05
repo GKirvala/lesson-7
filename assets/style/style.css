@@ -3,10 +3,14 @@
     padding: 0;
 }
 
+html, body {
+    overflow-y: hidden;
+}
+
 .bg{
     position: relative;
     background: #000 url('../images/bgforcar.jpg');
-    height:130vh;
+    height:120vh;
     background-repeat: repeat-x;
     background-size: cover;
     background-position: 0 0;
